@@ -1,5 +1,10 @@
-
-
+.navbar-brand {
+    background: salmon;
+    padding: 20px;
+    border-radius: 5px;
+    font-weight: 700;
+    margin-right: 300;
+}
 
 
 
