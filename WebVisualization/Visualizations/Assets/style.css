@@ -1,0 +1,68 @@
+.page_head {
+    display: inline-block;
+    background: lightsalmon;
+    padding:10px ;
+   
+}
+
+.page_head a {
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.navbar {
+    padding-left: 750px;
+    background: black;
+    border-radius: 3px;
+    overflow: hidden;
+}
+.navbar ul {
+    display: inline-block;
+    font-size: 15px;   
+}
+
+.navbar ul a {
+     text-decoration: none;
+     color: white;
+     font-size: 16px;
+     text-align: center;
+}
+
+.drop_bttn {
+    padding: 16px;
+    background: black;
+    font-size: 16px;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.drop-cont {
+    display: none;
+    position: absolute;
+    background: black;
+    min-width: 160px;
+    z-index: 1;  
+}
+
+.drop-cont a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.show {
+    display : block;
+}
+
+
+
+
+

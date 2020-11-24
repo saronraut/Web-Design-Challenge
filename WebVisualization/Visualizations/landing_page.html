@@ -4,17 +4,23 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Landing Page</title>
-    <link rel="stylesheet" href="style.css">
-    
+    <link rel="stylesheet" href="Assets/style.css">
+
     <h1 class="page_head"><a href="landing_page.html">Latitude</a></h1>
-    <ul class="plot_drop">Plots
-        <li><a href="cloudiness.html">Cloudiness</a></li>
-        <li><a href="humidity.html">Humidity</a></li>
-        <li><a href="temp.html">Temperature</a></li>
-        <li><a href="windspeed.html">Wind-Speed</a></li>
-    </ul>
-    <ul class="Comparison"><a href="comparison.html">Comparison</a></ul>
-    <ul class="Data"><a href="Data.html">Data</a> </ul>
+    <div class="container_1">
+        <nav class="navbar">
+            <ul class="dropdown"><button class="drop_bttn">Plots</button>
+                <div class="drop-cont">
+                    <a href="cloudiness.html">Cloudiness</a>
+                    <a href="humidity.html">Humidity</a>
+                    <a href="temp.html">Temperature</a>
+                    <a href="windspeed.html">Wind-Speed</a>
+                </div>
+            </ul>
+            <ul class="Comparison"><a href="comparison.html">Comparison</a></ul>
+            <ul class="Data"><a href="Data.html">Data</a> </ul>
+        </nav>
+    </div>
 </head>
 <body>
     <div class="main_summ">
