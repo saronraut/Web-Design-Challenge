@@ -3,10 +3,17 @@
     padding: 20px;
     border-radius: 5px;
     font-weight: 700;
-    margin-right: 300;
+    
+
 }
 
 
+.collapse.navbar-collapse ul {
+    padding-left: 1250px;
+    
+}
 
-
-
+@media {
+  body{
+      background-color: black;
+  }
