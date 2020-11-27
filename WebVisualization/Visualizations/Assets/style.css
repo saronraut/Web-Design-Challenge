@@ -62,6 +62,12 @@
     font-family: 'Times New Roman';
 }
 
+.headline-box {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 15px;
+}
+
 .container-img h3 {
     color: black;
     font-family: 'Times New Roman', Times, serif;
