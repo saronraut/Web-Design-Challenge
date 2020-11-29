@@ -10,7 +10,7 @@ What's in the repository:
     - /Visualizations folder is where all the created HTML file exists.
 
         - Landing_page : Homepage for the Dashboard. Interactive Images with little details on the purpose of the assignment.
-        
+
         - Temp, Humidity,Cloudiness, Comparison,Data,Windspeed pages: all of the pages can be navigated from the homepage and also the interactive Toolbar Buttons Created
 
 
@@ -21,9 +21,12 @@ https://saronraut.github.io/landing_page.html
 
 I also repurposed some codes provided by the instructor for a blueprint to create my page. 
 Also utlizied Built-in codes that can be founded in bootstrap Page. Links Provided Below.
+
     - https://getbootstrap.com/docs/4.5/getting-started/introduction/
 
+
 Also used w3school as source to build the codes for the pages:
+
     - https://www.w3schools.com/html/default.asp
     - https://www.w3schools.com/css/default.asp
 
