@@ -11,7 +11,13 @@ What's in the repository:
 
         - Landing_page : Homepage for the Dashboard. Interactive Images with little details on the purpose of the assignment.
 
-        - Temp, Humidity,Cloudiness, Comparison,Data,Windspeed pages: all of the pages can be navigated from the homepage and also the interactive Toolbar Buttons Created
+        - Temp, Humidity,Cloudiness, Comparison,Data,Windspeed pages: all of the pages can be navigated from the homepage and also the interactive Toolbar Buttons on the top.
+
+    - /Visualizations/Assets/Images : Contains the .png images that were imported for the previous analysis report. 
+
+    - /Visualization/Assets/cities.html : contains the .html version of the cities Data source which was converted using pandas from csv to html.
+    
+
 
 
 
