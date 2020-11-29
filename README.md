@@ -3,10 +3,14 @@
 The excerise invovled us sharing our data we collected on previous assignment. The Task required us to utilize what we know about HTML and CSS to create a dashboard showing off the analysis we have accomplished. 
 
 What's in the repository:
+
     - Within the /resources folder: We have cities.csv file which is our data source.
+
     - DataFrame_to_HTML.ipynb file was used to convert the dataframe into a HTML which would help in creating the Data.html page. 
     - /Visualizations folder is where all the created HTML file exists.
+
         - Landing_page : Homepage for the Dashboard. Interactive Images with little details on the purpose of the assignment.
+        
         - Temp, Humidity,Cloudiness, Comparison,Data,Windspeed pages: all of the pages can be navigated from the homepage and also the interactive Toolbar Buttons Created
 
 
