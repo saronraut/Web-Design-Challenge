@@ -131,7 +131,13 @@ th {
     margin-left: 0;
     margin-right: 50%;
     width: 40px;
+    
 }
+
+.container {
+    align-content: center;
+}
+
 
 }
 
